@@ -1,0 +1,13 @@
+{
+    "name": "acf/solutions-block",
+    "title": "Solutions Block",
+    "description": "A custom solutions block.",
+    "style": [ "file:./solutions-block.css" ],
+    "category": "sections",
+    "icon": "admin-comments",
+    "keywords": ["solutions", "section"],
+    "acf": {
+        "mode": "preview",
+        "renderTemplate": "solutions-block.php"
+    }
+}
